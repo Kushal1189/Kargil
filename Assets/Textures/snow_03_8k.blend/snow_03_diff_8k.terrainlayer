@@ -7,8 +7,8 @@ TerrainLayer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: snow_03_diff_8k
-  m_DiffuseTexture: {fileID: 2800000, guid: 016eb3a236083864c8b87bc10311ebf8, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: 0870288cb2d58af4cb875a6ebbf6392b, type: 3}
+  m_DiffuseTexture: {fileID: 2800000, guid: 83c3b863061c61d4abb997176d1a5a81, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: f378a9f55892b91479b17bf84988af87, type: 3}
   m_MaskMapTexture: {fileID: 0}
   m_TileSize: {x: 10, y: 10}
   m_TileOffset: {x: 0, y: 0}
